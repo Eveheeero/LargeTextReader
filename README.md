@@ -1,5 +1,7 @@
 # Large Text Reader
 
+![Usage Image](resource/usage.gif)
+
 - can read large text files
 - save current position
 - save recent files
