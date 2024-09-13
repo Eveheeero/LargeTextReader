@@ -1,0 +1,11 @@
+[package]
+name = "large_text_reader"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "*"
+encoding_rs = "*"
+serde = "*"
+serde_json = "*"
+time = { version = "*", features = ["serde", "macros"] }
